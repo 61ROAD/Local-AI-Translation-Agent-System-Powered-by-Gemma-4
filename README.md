@@ -86,8 +86,8 @@ The final translation generation is coordinated by the system's "state machine e
 1. **Clone the repository:**
 
    ```
-   git clone [https://github.com/yourusername/Local-AI-Translator.git](https://github.com/yourusername/Local-AI-Translator.git)
-   cd Local-AI-Translator
+   git clone [https://github.com/yourusername/Local-AI-Translation-Agent-System-Powered-by-Gemma-4.git](https://github.com/yourusername/Local-AI-Translation-Agent-System-Powered-by-Gemma-4.git)
+   cd Local-AI-Translation-Agent-System-Powered-by-Gemma-4
    ```
 2. **Configure Python virtual environment and install dependencies:**
 
